@@ -1,16 +1,14 @@
-## Hi there TEST 👋
+## Hi there 👋
 
-<!--
-**fusmanii/fusmanii** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Blockchain Engineer
 
-Here are some ideas to get you started:
+Senior Blockchain Engineer with 7+ years of experience in smart contract development, Web3 infrastructure, and blockchain security. Specialized in Solidity and Rust, with expertise in DeFi protocols, gas-optimized contracts, and scalable blockchain solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Main Tech Stack
+
+- Rust
+- Solidity
+- Python
+- JavaScript
+
+
